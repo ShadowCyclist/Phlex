@@ -852,7 +852,7 @@ function updateCommands(data, prepend) {
 					mediaDiv +
 					"<div class='cardColors'>" +
 					"<div class='cardImg'" + style + "></div>" +
-					"<div class='card-img-overlay'></div>"
+					"<div class='card-img-overlay'></div>" +
 				"</div>";
 
 				if (prepend) {
